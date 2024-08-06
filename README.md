@@ -10,7 +10,7 @@ Final COVID - 19 Death Rate Analysis
 ![image](https://github.com/user-attachments/assets/2a2f4399-1f47-4dea-8387-410480ba5ec8)
 
 # SS - 3 Case Trends Over the months
-![image](https://github.com/user-attachments/assets/b888e651-c55d-4d84-9c40-333a5dd5aea2)
+![image](https://github.com/user-attachments/assets/6323966d-0a71-4369-a867-fa05560ae0e9)
 
 # SS - 4 Top 10 Affected Countries
 ![image](https://github.com/user-attachments/assets/a6297d36-4e63-4621-a2f5-ebe500c8b6f1)
