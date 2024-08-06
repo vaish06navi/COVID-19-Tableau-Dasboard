@@ -1,6 +1,6 @@
-# COVID 19-Tableau-Dashboard
+# COVID 19 Death Rate Analysis - Tableau-Dashboard
 
-# Final COVID - 19 Death Rate Analysis 
+Final COVID - 19 Death Rate Analysis 
 ![image](https://github.com/user-attachments/assets/ceb02b22-a2f1-42e8-9ab3-c7f17c383556)
 
 # SS - 1 Overall +ve Cases Country Wise
